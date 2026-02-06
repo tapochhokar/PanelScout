@@ -1,0 +1,5 @@
+{
+  "name": "PanelScout",
+  "description": "A client-side web application for processing panel-based scoring CSVs. It mimics Excel workflows to normalize judge scores, aggregate them, and rank teams per panel.",
+  "requestFramePermissions": []
+}
